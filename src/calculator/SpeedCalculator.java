@@ -1,3 +1,5 @@
+package calculator;
+
 public class SpeedCalculator {
 
     public double calculate(double distance, double time) {
